@@ -5,9 +5,9 @@
 
 
 
-Refer to the below image.
+* Refer to the below image.
 
-![Image of Yaktocat](https://nkb-backend-media-static-tenxiitian.s3.ap-south-1.amazonaws.com/tenxiitian_prod/programs/Tech+Programs/frontend-content/ccbp/coding-practice-questions/static-websites/todo-list-v6.png)
+ ![Image of Yaktocat](https://nkb-backend-media-static-tenxiitian.s3.ap-south-1.amazonaws.com/tenxiitian_prod/programs/Tech+Programs/frontend-content/ccbp/coding-practice-questions/static-websites/todo-list-v6.png)
 
 todo-list-to-build
 
@@ -32,14 +32,13 @@ background-image-for-todo-list
 
 CSS Colors used:
 
-Background color for button:
+**Background color for button:**
+* orange
 
-orange
-Text color:
-
-white
+**Text color:**
+* white
 
 
-CSS Font families used:
+**CSS Font families used:**
 
-Roboto
+* Roboto

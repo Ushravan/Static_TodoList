@@ -7,7 +7,7 @@
 
 Refer to the below image.
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat](https://nkb-backend-media-static-tenxiitian.s3.ap-south-1.amazonaws.com/tenxiitian_prod/programs/Tech+Programs/frontend-content/ccbp/coding-practice-questions/static-websites/todo-list-v6.png)
 
 todo-list-to-build
 
